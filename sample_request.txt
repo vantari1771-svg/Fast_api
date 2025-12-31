@@ -1,0 +1,14 @@
+{
+  "model": "gemma2:2b",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an helpful assistant"
+    },
+    {
+      "role": "user",
+      "content": "What is Machine Learning? Explain in short."
+    }
+
+  ]
+}
